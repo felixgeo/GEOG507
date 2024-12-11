@@ -4,7 +4,7 @@
 ### Theme 1: Python Programming
 
 ## Theme 4: Model Deployment Pipelines
-* <a href="Lectures/Lecture1.html"> Lecture 23 - Introduction to Data Science Operations (DSOps)</a>
+* <a href="Lectures/Lecture1.Rmd"> test lecture 1</a>
 * <a href="docs/Lectures/Theme_4-Model_Deployment/Lecture_24-Deploying_to_Web/Lecture_24-Deploying_to_Web.ipynb"> Lecture 24 - Deploying Projects as Web Applications</a>
 * <a href="docs/Lectures/Theme_4-Model_Deployment/Lecture_25-Deploying_to_Cloud/Lecture_25-Deploying_to_Cloud.ipynb"> Lecture 25 - Deploying Projects to the Cloud</a>
 ## Tutorials
