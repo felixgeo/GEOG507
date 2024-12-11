@@ -1,47 +1,10 @@
 # GEOG507
 # CS 488/588 – Applied Data Science with Python
-[University of Idaho](https://www.uidaho.edu) - [Department of Computer Science](https://www.uidaho.edu/engr/departments/cs)
 
-Instructor: [Alex Vakanski](https://www.webpages.uidaho.edu/vakanski/index.html) (vakanski@uidaho.edu)
-
-Teaching Assistant: Longze Li (li8975@vandals.uidaho.edu)
-
-Semester: Fall 2024 (August 19 – December 13)
-
-<a href="docs/Lectures/CS_488_588-Applied_Data_Science_with_Python-Syllabus.pdf">Course Syllabus</a>
-
-*Course website*: <https://fall-2024-applied-data-science-with-python.readthedocs.io/en/latest/>
-
-*GitHub repository*: <https://github.com/avakanski/Fall-2024-Applied-Data-Science-with-Python/blob/main/README.md>
-
-## Lectures:
-* <a href="docs/Lectures/Lecture_1-A_Short_History_of_AI/Lecture_1-A_Short_History_of_AI.pdf">Lecture 1 - A Short History and Current State of Artificial Intelligence</a>
 ### Theme 1: Python Programming
-* <a href="docs/Lectures/Theme_1-Python_Programming/Lecture_2-Data_Types_in_Python/Lecture_2-Data_Types.ipynb">Lecture 2 - Data Types in Python</a>
-* <a href="docs/Lectures/Theme_1-Python_Programming/Lecture_3-Statements,_Files/Lecture_3-Statements,_Files.ipynb">Lecture 3 - Statements, Files</a>
-* <a href="docs/Lectures/Theme_1-Python_Programming/Lecture_4-Functions,_Iterators/Lecture_4-Functions,_Iterators.ipynb">Lecture 4 - Functions, Iterators</a>
-* <a href="docs/Lectures/Theme_1-Python_Programming/Lecture_5-OOP,_Modules,_Packages/Lecture_5-OOP,_Modules,_Packages.ipynb">Lecture 5 - Object-Oriented Programming, Modules, Packages</a>
-### Theme 2: Data Engineering Pipelines
-* <a href="docs/Lectures/Theme_2-Data_Engineering/Lecture_6-NumPy/Lecture_6-NumPy.ipynb">Lecture 6 - NumPy for Array Operations</a>
-* <a href="docs/Lectures/Theme_2-Data_Engineering/Lecture_7-Pandas/Lecture_7-Pandas.ipynb"> Lecture 7 - Data Manipulation with Pandas</a>
-* <a href="docs/Lectures/Theme_2-Data_Engineering/Lecture_8-Matplotlib/Lecture_8-Matplotlib.ipynb"> Lecture 8 - Data Visualization with Matplotlib</a>
-* <a href="docs/Lectures/Theme_2-Data_Engineering/Lecture_9-Seaborn/Lecture_9-Seaborn.ipynb"> Lecture 9 - Data Visualization with Seaborn</a>
-* <a href="docs/Lectures/Theme_2-Data_Engineering/Lecture_10-Statistical_Data_Analysis/Lecture_10-Statistical_Data_Analysis.ipynb"> Lecture 10 - Statistical Data Analysis</a>
-* <a href="docs/Lectures/Theme_2-Data_Engineering/Lecture_11-SQL/Lecture_11-SQL.ipynb"> Lecture 11 - Databases and SQL</a>
-* <a href="docs/Lectures/Theme_2-Data_Engineering/Lecture_12-Data_Exploration/Lecture_12-Data_Exploration_and_Preprocessing.ipynb"> Lecture 12 - Data Exploration and Preprocessing</a>
-### Theme 3: Model Engineering Pipelines
-* <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_13-Scikit-Learn/Lecture_13-Scikit-Learn.ipynb"> Lecture 13 - Scikit-Learn Library for Data Science</a>
-* <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_14-Ensemble_Methods/Lecture_14-Ensemble_Methods.ipynb"> Lecture 14 - Ensemble Methods</a>
-* <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_15-ANNs/Lecture_15-ANNs.ipynb"> Lecture 15 - Artificial Neural Networks with Keras-TensorFlow</a>
-* <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_16-ConvNets/Lecture_16-ConvNets.ipynb"> Lecture 16 - Convolutional Neural Networks with Keras-TensorFlow</a>
-* <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_17-Model_Selection/Lecture_17-Model_Selection.ipynb"> Lecture 17 - Model Selection, Hyperparameter Tuning</a>
-* <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_18-NNs_with_PyTorch/Lecture_18-NNs_with_PyTorch.ipynb"> Lecture 18 - Artificial Neural Networks with PyTorch</a>
-* <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_19-Natural_Language_Processing/Lecture_19-NLP.ipynb"> Lecture 19 - Natural Language Processing</a>
-* <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_20-Transformer_Networks/Lecture_20-Transformer_Networks.ipynb"> Lecture 20 - Transformer Networks</a>
-* <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_21-NLP_with_Hugging_Face/Lecture_21-NLP_with_Hugging_Face.ipynb"> Lecture 21 - NLP with Hugging Face</a>
-* <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_22-LLMs/Lecture_22-LLMs.ipynb">  Lecture 22 - Large Language Models</a>
+
 ## Theme 4: Model Deployment Pipelines
-* <a href="docs/Lectures/Theme_4-Model_Deployment/Lecture_23-DSOps/Lecture_23-DSOps.pdf"> Lecture 23 - Introduction to Data Science Operations (DSOps)</a>
+* <a href="Lectures/Lecture1.html"> Lecture 23 - Introduction to Data Science Operations (DSOps)</a>
 * <a href="docs/Lectures/Theme_4-Model_Deployment/Lecture_24-Deploying_to_Web/Lecture_24-Deploying_to_Web.ipynb"> Lecture 24 - Deploying Projects as Web Applications</a>
 * <a href="docs/Lectures/Theme_4-Model_Deployment/Lecture_25-Deploying_to_Cloud/Lecture_25-Deploying_to_Cloud.ipynb"> Lecture 25 - Deploying Projects to the Cloud</a>
 ## Tutorials
