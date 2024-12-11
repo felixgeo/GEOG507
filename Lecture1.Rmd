@@ -22,7 +22,10 @@ When you click the **Knit** button a document will be generated that includes bo
 summary(cars)
 
 #print
+<<<<<<< HEAD
 
+=======
+>>>>>>> fed254f7373374244e2da48df3ff8f2de0408db3
 #test
 
 
