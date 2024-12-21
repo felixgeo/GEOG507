@@ -2,13 +2,13 @@
 
 The repo hosts lecture and lab tutorials presented in the Spatial Analysis and Modeling course at the University of Idaho (UI hereafter). The syllabus and the schedule are both hosted on UI's canvas class website.
 
-**Lecture repositories**
+**Lecture notes**
 
-1.  [Leture 1: Introduction](Lecture_notes/Lecture1.html)
+-   [Leture 1: Introduction](Lecture_notes/Lecture1.html)
 
-2.  
+-   
 
-**Lab repositories**
+**Lab tutorials**
 
 -   Lab 1: Getting Started in R studio
 
