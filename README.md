@@ -4,9 +4,9 @@ The repo hosts lecture and lab tutorials presented in the Spatial Analysis and M
 
 **Lecture repositories**
 
--   [Leture 1: Introduction](Lecture_notes/Lecture1.html)
+1.  [Leture 1: Introduction](Lecture_notes/Lecture1.html)
 
--   
+2.  
 
 **Lab repositories**
 
