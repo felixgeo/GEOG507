@@ -1,6 +1,6 @@
 # GEOG507/407 Spatia Analysis and Modeling
 
-The repo hosts lecture and lab tutorials presented in the Spatial Analysis and Modeling course at the University of Idaho. The syllabus and the schedule are both hosted on UI's canvas class website.
+The repo hosts lecture and lab tutorials presented in the Spatial Analysis and Modeling course at the University of Idaho (UI hereafter). The syllabus and the schedule are both hosted on UI's canvas class website.
 
 **Lecture repositories**
 
