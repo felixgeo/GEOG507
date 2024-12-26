@@ -7,7 +7,6 @@ The syllabus and the schedule are both hosted on UI's canvas class website.
 **Lecture notes**
 
 -   [Leture 1: Introduction](Lectures/Lecture1.html)
-
 -   
 
 **Practicals**
@@ -17,7 +16,5 @@ The syllabus and the schedule are both hosted on UI's canvas class website.
 **Lab assignments**
 
 -   Lab 1: Getting Started in R studio
-
 -   Lab 2: Descriptive Statistics and Data Visualization
-
 -   
