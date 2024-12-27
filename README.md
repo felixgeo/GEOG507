@@ -16,5 +16,5 @@ The syllabus and the schedule are both hosted on UI's canvas class website.
 **Lab assignments**
 
 -   Lab 1: Getting Started in R studio
--   Lab 2: Descriptive Statistics and Data Visualization
+-   Lab 2: Descriptive Statistics and Visualization
 -   
