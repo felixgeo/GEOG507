@@ -1,6 +1,6 @@
 # GEOG507/407 Spatial Analysis and Modeling
 
-The repo hosts lecture slides, practicials and lab assignments presented in the GEOG507 or GEOG407. Spatial Analysis and Modeling course during spring of 2025 at the University of Idaho (UI hereafter).
+The repo hosts lecture slides, practicals and lab assignments presented in the Spatial Analysis and Modeling course during the spring semester of 2025 at the University of Idaho (UI hereafter).
 
 The syllabus and the tentative schedule are both hosted on UI's [canvas](https://canvas.uidaho.edu/) site.
 
