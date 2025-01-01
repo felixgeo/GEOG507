@@ -11,7 +11,7 @@ The repo hosts lecture slides, practicals and lab assignments presented in the S
 -   Lecture 5: MAUP, describing raster data and sampling raster data
 -   Lecture 6: Sampling, confidence intervals, and hypothesis testing
 -   Lecture 7: Point pattern analysis
--   Lecture 8: Comparing means: Two-sample t test, annova, and chi-square
+-   Lecture 8: Comparing means: Two-sample t test, ANOVA, and chi-square
 -   Lecture 9: Spatial attribute data analysis
 -   Lecture 10: Correlation and regression analysis
 -   Lecture 11: Spatial regression and geographically weighted regression
