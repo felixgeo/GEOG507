@@ -8,7 +8,7 @@ The repo hosts lecture slides, practicals and lab assignments presented in the S
 -   Lecture 2: Data types and statistical thinking
 -   Lecture 3: Descriptive statistics and central tendancy
 -   Lecture 4: Spatial data processing and descriptive spatial statistics
--   Lecture 5: MAUP, describing raster data and sampling raster data
+-   Lecture 5: Descriptive spatial statistics 2 and handeling raster data
 -   Lecture 6: Sampling, confidence intervals, and hypothesis testing
 -   Lecture 7: Point pattern analysis
 -   Lecture 8: Comparing means: Two-sample t test, ANOVA, and chi-square
@@ -21,8 +21,8 @@ The repo hosts lecture slides, practicals and lab assignments presented in the S
 
 -   [Practical 1](Practicals/1_Practical.html): Getting Started with R studio and data wrangling
 -   Practical 2: Descriptive statistics, pivoting, and basic visualization
--   Practical 3: Spatial data mapping and processing
--   Practical 4: Raster data analysis w R
+-   Practical 3: Spatial data mapping and descriptive spatial statistics
+-   Practical 4: Raster data analysis and sampling w R
 -   Practical 5: Confidence intervals
 -   Practical 6: Point pattern analysis
 -   Practical 7: Two-sample t test, annova and chi-square
@@ -34,8 +34,8 @@ The repo hosts lecture slides, practicals and lab assignments presented in the S
 **Lab assignments**
 
 -   Lab 0: Getting Started in R studio and data transformation
--   Lab 1: Descriptive Statistics, visualization and pivoting
--   Lab 2: Spatial data mapping and analysis
+-   Lab 1: Descriptive Statistics, graphing, and pivoting
+-   Lab 2: Spatial data mapping and descriptive spatial statistics
 -   Lab 3: Confidence intervals and sampling
 -   Lab 4: Point pattern analysis
 -   Lab 5: Statistical testing and comparing means
