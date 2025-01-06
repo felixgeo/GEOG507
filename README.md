@@ -27,7 +27,7 @@ The repo hosts lecture slides, practicals, and lab assignments presented in the 
 -   Practical 6: Point pattern analysis
 -   Practical 7: Two-sample t-test, ANOVA, and chi-square
 -   Practical 8: Spatial areal data
--   Practical 9: Correlation and regression analysis of spatial data
+-   Practical 9: Regression and spatial interpolation
 -   Practical 10: Spatial regression and geographically weighted regression
 -   Practical 11: Cluster analysis
 
@@ -40,5 +40,5 @@ The repo hosts lecture slides, practicals, and lab assignments presented in the 
 -   Lab 4: Point pattern analysis
 -   Lab 5: Statistical testing and comparing means
 -   Lab 6: Correlation and spatial autocorrelation
--   Lab 7: Spatial regression
--   Lab 8: Geographically weighted regression (extra credit)
+-   Lab 7: Spatial interpolation and regression
+-   Lab 8: Spatial and Geographically weighted regression (extra credit)
