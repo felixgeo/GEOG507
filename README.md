@@ -1,17 +1,17 @@
 # GEOG507/407 Spatial Analysis and Modeling
 
-The repo hosts lecture slides, practicals and lab assignments presented in the Spatial Analysis and Modeling course during the spring semester of 2025 at the University of Idaho (UI hereafter). The syllabus and the tentative schedule are both hosted on UI's [canvas](https://canvas.uidaho.edu/) site.
+The repo hosts lecture slides, practicals, and lab assignments presented in the Spatial Analysis and Modeling course during the spring semester of 2025 at the University of Idaho (UI hereafter). The syllabus and the tentative schedule are both hosted on UI's [canvas](https://canvas.uidaho.edu/) site.
 
 **Lecture notes**
 
 -   [Leture 1: Introduction](Lectures/Lecture1.html) and the role of statistics in GIScience
--   Lecture 2: Data types and statistical thinking
--   Lecture 3: Descriptive statistics and central tendancy
+-   Lecture 2: Data types and characteristics of geospatial data
+-   Lecture 3: Descriptive statistics and central tendency
 -   Lecture 4: Spatial data processing and descriptive spatial statistics
--   Lecture 5: Descriptive spatial statistics 2 and handeling raster data
+-   Lecture 5: Descriptive Spatial Statistics 2 and Handling Raster Data
 -   Lecture 6: Sampling, confidence intervals, and hypothesis testing
 -   Lecture 7: Point pattern analysis
--   Lecture 8: Comparing means: Two-sample t test, ANOVA, and chi-square
+-   Lecture 8: Comparing means: Two-sample t-test, ANOVA, and chi-square
 -   Lecture 9: Spatial attribute data analysis
 -   Lecture 10: Correlation and regression analysis
 -   Lecture 11: Spatial regression and geographically weighted regression
@@ -25,7 +25,7 @@ The repo hosts lecture slides, practicals and lab assignments presented in the S
 -   Practical 4: Raster data analysis and sampling w R
 -   Practical 5: Confidence intervals
 -   Practical 6: Point pattern analysis
--   Practical 7: Two-sample t test, annova and chi-square
+-   Practical 7: Two-sample t-test, ANOVA, and chi-square
 -   Practical 8: Spatial areal data
 -   Practical 9: Correlation and regression analysis of spatial data
 -   Practical 10: Spatial regression and geographically weighted regression
