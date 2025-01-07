@@ -12,8 +12,8 @@ The repo hosts lecture slides, practicals, and lab assignments presented in the 
 -   Lecture 6: Sampling, confidence intervals, and hypothesis testing
 -   Lecture 7: Point pattern analysis
 -   Lecture 8: Comparing means: Two-sample t-test, ANOVA, and chi-square
--   Lecture 9: Spatial attribute data analysis
--   Lecture 10: Correlation and regression analysis
+-   Lecture 9: Spatial attribute data and correlation analysis
+-   Lecture 10: Regression analysis and spatial interpolation
 -   Lecture 11: Spatial regression and geographically weighted regression
 -   Lecture 12: Cluster analysis
 
