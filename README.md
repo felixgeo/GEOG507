@@ -8,7 +8,7 @@ The repo hosts lecture slides, practicals, and lab assignments presented in the 
 -   Lecture 2: Data types and characteristics of geospatial data
 -   Lecture 3: Descriptive statistics and central tendency
 -   Lecture 4: Spatial data processing and descriptive spatial statistics
--   Lecture 5: Descriptive Spatial Statistics 2 and Handling Raster Data
+-   Lecture 5: Descriptive spatial statistics 2 and handling raster data w R
 -   Lecture 6: Sampling, confidence intervals, and hypothesis testing
 -   Lecture 7: Point pattern analysis
 -   Lecture 8: Comparing means: Two-sample t-test, ANOVA, and chi-square
