@@ -26,7 +26,7 @@ The repo hosts lecture slides, practicals, and lab assignments presented in the 
 -   Practical 5: Confidence intervals
 -   Practical 6: Point pattern analysis
 -   Practical 7: Two-sample t-test, ANOVA, and chi-square
--   Practical 8: Spatial areal data
+-   Practical 8: Spatial areal data analysis
 -   Practical 9: Regression and spatial interpolation
 -   Practical 10: Spatial regression and geographically weighted regression
 -   Practical 11: Cluster analysis
