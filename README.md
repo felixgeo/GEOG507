@@ -34,7 +34,7 @@ The repo hosts lecture slides, practicals, and lab assignments presented in the 
 **Lab assignments**
 
 -   [Lab 0](Labs/Lab0_template.html): Getting started in R studio and data transformation
--   Lab 1: Descriptive statistics, graphing, and pivoting
+-   [Lab 1](Labs/Lab1_template.html): Descriptive statistics, graphing, and choropleth mapping
 -   Lab 2: Spatial data mapping and descriptive spatial statistics
 -   Lab 3: Confidence intervals and sampling
 -   Lab 4: Point pattern analysis
