@@ -21,10 +21,10 @@ The repo hosts lecture slides, practicals, and lab assignments presented in the 
 
 -   [Practical 1](Practicals/1_Practical.html): Getting Started with R studio and data wrangling
 -   [Practical 2:](Practicals/2_Practical.html) Descriptive statistics, pivoting, and basic visualization
--   Practical 3: Spatial data mapping and descriptive spatial statistics
--   Practical 4: Raster data analysis and sampling w R
--   Practical 5: Confidence intervals
--   Practical 6: Point pattern analysis
+-   [Practical 3](Practicals/3_Practical.html): Spatial data basics and mapping
+-   Practical 4: Point pattern analysis
+-   Practical 5: Geospatial analysis of spatial data
+-   Practical 6: Probability distribution, confidence intervals and hypothesis testing
 -   Practical 7: Two-sample t-test, ANOVA, and chi-square
 -   Practical 8: Spatial areal data analysis
 -   Practical 9: Regression and spatial interpolation
