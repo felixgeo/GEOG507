@@ -37,7 +37,7 @@ The repo hosts lecture slides, practicals, and lab assignments presented in the 
 -   [Lab 1](Labs/Lab1_template.html): Descriptive statistics, graphing, and choropleth mapping
 -   Lab 2: Point pattern analysis
 -   Lab 3: Statistical testing and comparing means
--   Lab 4: Correlation and spatial autocorrelation
--   Lab 5: Spatial interpolation and regression
--   Lab 6: Spatial and Geographically weighted regression
+-   Lab 4: Spatial autocorrelation and regression
+-   Lab 5: Geographically weighted regression
+-   Lab 6: Spatial interpolation
 -   Lab 7: Cluster analysis (extra credit)
