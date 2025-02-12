@@ -37,6 +37,6 @@ The repo hosts lecture slides, practicals, and lab assignments presented in the 
 -   [Lab 2](Labs/Lab2_PointPattern.zip): Point pattern analysis
 -   Lab 3: Probability, geospatial analysis and confidence intervals
 -   Lab 4: Statistical testing and comparing means
--   Lab 5: Spatial and geographically weighted regression
--   Lab 6: Spatial interpolation (extra credit)
-
+-   Lab 5: Spatial autocorrelation and correlation analysis
+-   Lab 6: Spatial and geographically weighted regression
+-   Lab 7: Spatial interpolation (extra credit)
