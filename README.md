@@ -23,21 +23,28 @@ The repo hosts lecture slides, practicals, and lab assignments presented in the 
 -   [Practical 2:](Practicals/2_Practical.html) Descriptive statistics, pivoting, and basic visualization
 -   [Practical 3](Practicals/3_Practical.html): Spatial data basics and mapping
 -   [Practical 4](Practicals/4_Practical_GeospatialAnalysis.zip): Geospatial analysis of spatial data
--   Practical 5: Raster and imagery data analysis
--   Practical 6: Probability distribution, confidence intervals and hypothesis testing
--   Practical 7: Two-sample t-test, ANOVA, and chi-square
--   Practical 8: Spatial areal data analysis
--   Practical 9: Statistical modeling and regression analysis
--   Practical 10: Spatial regression and geographically weighted regression
--   Practical 11: Spatial interpolation
+-   Practical 5: Raster analysis
+-   Practical 6: Normality test, t-test, non-parametric test
+-   Practical 7: Imagery classification w R
+-   Practical 8: Modeling and regression analysis
+-   Practical 9: Spatial varying coefficient models
+-   Practical 10: Spatial interpolation
 
 **Lab assignments**
 
 -   [Lab 0](Labs/Lab0_template.html): Getting started in R studio and data transformation
 -   [Lab 1](Labs/Lab1_template.html): Descriptive statistics, graphing, and choropleth mapping
+<<<<<<< HEAD
 -   Lab 2: Point pattern analysis
 -   Lab 3: Statistical testing and comparing means
 -   Lab 4: Spatial autocorrelation and regression
 -   Lab 5: Geographically weighted regression
 -   Lab 6: Spatial interpolation
 -   Lab 7: Cluster analysis (extra credit)
+=======
+-   [Lab 2](Labs/Lab2_PointPattern.zip): Point pattern analysis
+-   Lab 3: Probability, geospatial analysis and confidence intervals
+-   Lab 4: Statistical testing and comparing means
+-   Lab 5: Spatial and geographically weighted regression
+-   Lab 6: Spatial interpolation (extra credit)
+>>>>>>> bb682cf (update)
