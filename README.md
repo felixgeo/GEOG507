@@ -34,17 +34,9 @@ The repo hosts lecture slides, practicals, and lab assignments presented in the 
 
 -   [Lab 0](Labs/Lab0_template.html): Getting started in R studio and data transformation
 -   [Lab 1](Labs/Lab1_template.html): Descriptive statistics, graphing, and choropleth mapping
-<<<<<<< HEAD
--   Lab 2: Point pattern analysis
--   Lab 3: Statistical testing and comparing means
--   Lab 4: Spatial autocorrelation and regression
--   Lab 5: Geographically weighted regression
--   Lab 6: Spatial interpolation
--   Lab 7: Cluster analysis (extra credit)
-=======
 -   [Lab 2](Labs/Lab2_PointPattern.zip): Point pattern analysis
 -   Lab 3: Probability, geospatial analysis and confidence intervals
 -   Lab 4: Statistical testing and comparing means
 -   Lab 5: Spatial and geographically weighted regression
 -   Lab 6: Spatial interpolation (extra credit)
->>>>>>> bb682cf (update)
+
