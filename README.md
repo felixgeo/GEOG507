@@ -15,7 +15,6 @@ The repo hosts lecture slides, practicals, and lab assignments presented in the 
 -   Lecture 9: Spatial attribute data and spatial autocorrelation
 -   Lecture 10: Regression and correlation analysis
 -   Lecture 11: Spatial regression and geographically weighted regression
--   Lecture 12: Spatial interpolation
 
 **Practicals**
 
