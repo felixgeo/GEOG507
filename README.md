@@ -26,7 +26,7 @@ The repo hosts lecture slides, practicals, and lab assignments presented in the 
 -   Practical 6: Imagery classification
 -   Practical 7: Spatial autocorrelation
 -   Practical 8: Modeling and regression analysis
--   Practical 9: Spatial varying coefficient models
+-   Practical 9: Spatially varying coefficient models
 -   Practical 10: Spatial interpolation
 
 **Lab assignments**
