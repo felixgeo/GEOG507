@@ -10,7 +10,7 @@ The repo hosts lecture slides, practicals, and lab assignments presented in the 
 -   [Lecture 4: Descriptive spatial statistics](Lectures/Lecture4_DescriptiveSpatialStatistics.html)
 -   [Lecture 5: Point pattern analysis](Lectures/Lecture5_PointPatternAnalysis.html)
 -   [Lecture 6: Probability distribution](Lectures/Lecture6_ProbabilityDistribution.html)
--   Lecture 7: Sampling, confidence intervals, and hypothesis testing
+-   [Lecture 7: Sampling, confidence intervals, and hypothesis testing](Lectures/Lecture7_Sampling_CIs_OneSample.html)
 -   Lecture 8: Comparing means: Two-sample t-test, ANOVA, and chi-square
 -   Lecture 9: Spatial attribute data and spatial autocorrelation
 -   Lecture 10: Regression and correlation analysis
