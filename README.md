@@ -24,8 +24,8 @@ The repo hosts lecture slides, practicals, and lab assignments presented in the 
 -   [Practical 3](Practicals/3_Practical.html): Spatial data basics and mapping
 -   [Practical 4](Practicals/4_Practical_GeospatialAnalysis.zip): Geospatial analysis of spatial data
 -   Practical 5: Raster analysis
--   Practical 6: Normality test, t-test, non-parametric test
--   Practical 7: Imagery classification w R
+-   Practical 6: Imagery classification w R
+-   Practical 7: Normality test, t-test, non-parametric test
 -   Practical 8: Modeling and regression analysis
 -   Practical 9: Spatial varying coefficient models
 -   Practical 10: Spatial interpolation
