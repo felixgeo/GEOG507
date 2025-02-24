@@ -21,10 +21,10 @@ The repo hosts lecture slides, practicals, and lab assignments presented in the 
 -   [Practical 1](Practicals/1_Practical.html): Getting Started with R studio and data wrangling
 -   [Practical 2:](Practicals/2_Practical.html) Descriptive statistics, pivoting, and basic visualization
 -   [Practical 3](Practicals/3_Practical.html): Spatial data basics and mapping
--   [Practical 4](Practicals/4_Practical_GeospatialAnalysis.zip): Geospatial analysis of spatial data
+-   [Practical 4](Practicals/4_Practical.html): Geospatial analysis of spatial data
 -   Practical 5: Raster analysis
--   Practical 6: Imagery classification w R
--   Practical 7: Normality test, t-test, non-parametric test
+-   Practical 6: Imagery classification
+-   Practical 7: Spatial autocorrelation
 -   Practical 8: Modeling and regression analysis
 -   Practical 9: Spatial varying coefficient models
 -   Practical 10: Spatial interpolation
@@ -33,9 +33,9 @@ The repo hosts lecture slides, practicals, and lab assignments presented in the 
 
 -   [Lab 0](Labs/Lab0_template.html): Getting started in R studio and data transformation
 -   [Lab 1](Labs/Lab1_template.html): Descriptive statistics, graphing, and choropleth mapping
--   [Lab 2](Labs/Lab2_PointPattern.zip): Point pattern analysis
--   Lab 3: Probability, geospatial analysis and confidence intervals
--   Lab 4: Statistical testing and comparing means
+-   [Lab 2](Labs/Lab2_template.html): Point pattern analysis
+-   [Lab 3:](Labs/Lab3_template.html) Probability, vector analysis and confidence intervals
+-   Lab 4: Comparing means, contingency table, raster analysis
 -   Lab 5: Spatial autocorrelation and correlation analysis
 -   Lab 6: Spatial and geographically weighted regression
 -   Lab 7: Spatial interpolation (extra credit)
