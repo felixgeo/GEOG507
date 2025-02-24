@@ -23,7 +23,7 @@ The repo hosts lecture slides, practicals, and lab assignments presented in the 
 -   [Practical 3](Practicals/3_Practical.html): Spatial data basics and mapping
 -   [Practical 4](Practicals/4_Practical.html): Geospatial analysis of spatial data
 -   [Practical 5:](Practicals/5_Practical_RasterAnalysis.html) Raster analysis
--   Practical 6: Imagery classification
+-   [Practical 6:](Practicals/6_Practical_Image_Analysis.html) Imagery classification
 -   Practical 7: Spatial autocorrelation
 -   Practical 8: Modeling and regression analysis
 -   Practical 9: Spatially varying coefficient models
