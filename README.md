@@ -7,8 +7,8 @@ The repo hosts lecture slides, practicals, and lab assignments presented in the 
 -   [Lecture 1: Introduction](Lectures/Lecture1_Introduction.html) and the role of statistics in GIScience
 -   [Lecture 2: Data types](Lectures/Lecture2_DataTypes_Characteristics.html) and characteristics of geospatial data
 -   [Lecture 3: Descriptive statistics](Lectures/Lecture3_CentralTendencyDescriptiveStats.html) and central tendency
--   [Lecture 4: Descriptive spatial statistics](Lectures/Lecture4_DescriptiveSpatialStatistics.zip)
--   [Lecture 5: Point pattern analysis](Lectures/Lecture5_PointPatternAnalysis.zip)
+-   [Lecture 4: Descriptive spatial statistics](Lectures/Lecture4_DescriptiveSpatialStatistics.html)
+-   [Lecture 5: Point pattern analysis](Lectures/Lecture5_PointPatternAnalysis.html)
 -   [Lecture 6: Probability distribution](Lectures/Lecture6_ProbabilityDistribution.html)
 -   Lecture 7: Sampling, confidence intervals, and hypothesis testing
 -   Lecture 8: Comparing means: Two-sample t-test, ANOVA, and chi-square
