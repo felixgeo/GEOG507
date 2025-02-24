@@ -9,7 +9,7 @@ The repo hosts lecture slides, practicals, and lab assignments presented in the 
 -   [Lecture 3: Descriptive statistics](Lectures/Lecture3_CentralTendencyDescriptiveStats.html) and central tendency
 -   [Lecture 4: Descriptive spatial statistics](Lectures/Lecture4_DescriptiveSpatialStatistics.zip)
 -   [Lecture 5: Point pattern analysis](Lectures/Lecture5_PointPatternAnalysis.zip)
--   Lecture 6: Probability distribution
+-   [Lecture 6: Probability distribution](Lectures/Lecture6_ProbabilityDistribution.html)
 -   Lecture 7: Sampling, confidence intervals, and hypothesis testing
 -   Lecture 8: Comparing means: Two-sample t-test, ANOVA, and chi-square
 -   Lecture 9: Spatial attribute data and spatial autocorrelation
