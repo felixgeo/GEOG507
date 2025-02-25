@@ -24,10 +24,10 @@ The repo hosts lecture slides, practicals, and lab assignments presented in the 
 -   [Practical 4](Practicals/4_Practical.html): Geospatial analysis of spatial data
 -   [Practical 5:](Practicals/5_Practical_RasterAnalysis.html) Raster analysis
 -   [Practical 6:](Practicals/6_Practical_Image_Analysis.html) Imagery classification
--   Practical 7: Spatial autocorrelation
--   Practical 8: Modeling and regression analysis
--   Practical 9: Spatially varying coefficient models
--   Practical 10: Spatial interpolation
+-   Practical 7: Statistical testing w environmental data
+-   Practical 8: Spatial autocorrelation
+-   Practical 9: Modeling and regression analysis
+-   Practical 10: Spatially varying coefficient models
 
 **Lab assignments**
 
@@ -35,7 +35,7 @@ The repo hosts lecture slides, practicals, and lab assignments presented in the 
 -   [Lab 1](Labs/Lab1_template.html): Descriptive statistics, graphing, and choropleth mapping
 -   [Lab 2](Labs/Lab2_template.html): Point pattern analysis
 -   [Lab 3:](Labs/Lab3_template.html) Probability, vector analysis and confidence intervals
--   Lab 4: Comparing means, contingency table, raster analysis
+-   Lab 4: ANOVA, contingency table, raster analysis
 -   Lab 5: Spatial autocorrelation and correlation analysis
 -   Lab 6: Spatial and geographically weighted regression
 -   Lab 7: Spatial interpolation (extra credit)
